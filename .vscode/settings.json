@@ -1,0 +1,4 @@
+{
+    "solidity.remappings": 
+        "@chainlink/=/wsl.localhost/Ubuntu/theblocdoc/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@1.1.1"
+  }
